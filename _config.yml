@@ -21,3 +21,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+sass:
+  sass_dir: _sass
